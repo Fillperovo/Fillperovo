@@ -15,16 +15,18 @@
     </section>
     <br>
     <section>
-            Hmm... where to start..? I'm 16 years old, I want to learn and develop, now, I’m studying at a Moscow college, majoring in software development. I’m curious about exactly how the computer thinks when I perform a particular action. <b>I LOVE CATS <333</b> and I have one:
-                    <div style="display: flex; justify-content: center;">
-                            <img src="https://github.com/Fillperovo/fotki/blob/main/IMG_20261030_135807.jpg" alt="kotik">
-                            <img src="https://github.com/Fillperovo/fotki/blob/main/IMG_20261011_100803.jpg" alt="kotik">
-                            <img src="https://github.com/Fillperovo/fotki/blob/main/IMG_20260803_203001.jpg" alt="kotik">
-                    </div>
+            Hmm... where to start..? I'm 16 years old, I want to learn and develop, now, I’m studying at a Moscow college, majoring in software development. I’m curious about exactly how the computer thinks when I perform a particular action. <b>I LOVE CATS <333</b>
             </section>
     <br>
     <section>
             My twitter: <br>
             <a href="https://x.com/Fill_perovo"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge" alt="Twitter"> </a>
     </section>
-    
+            <fotter>
+                    My <b>favourite</b> cat:
+                    <div style="display: flex; justify-content: space-around; align-items: center;">
+                            <img src="https://github.com/Fillperovo/fotki/blob/main/IMG_20261030_135807.jpg" alt="kotik" style="height: 300px">
+                            <img src="https://github.com/Fillperovo/fotki/blob/main/IMG_20261011_100803.jpg" alt="kotik" style="height: 300px">
+                            <img src="https://github.com/Fillperovo/fotki/blob/main/IMG_20260803_203001.jpg" alt="kotik" style="height: 300px">
+                    </div>
+            </fotter>
