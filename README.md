@@ -1,5 +1,5 @@
-<section>
-        <h1, style="font-size: 30;"> <b>Hi, there!</b> This is my GitHub page. Here I’ll try to tell you about myself and my skills.</h1>
+<section style="display: flex; justify-content: center">
+        <h1> <b>Hi, there!</b> This is my GitHub page. Here I’ll try to tell you about myself and my skills.</h1>
     </section>
     <section>
         <img src="http://c.tenor.com/cRTQk6N_FxMAAAAd/tenor.gif" alt="it's SWAGcat">
@@ -20,7 +20,7 @@
     <br>
     <section>
             My twitter: <br>
-            <a href="https://x.com/Fill_perovo"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge" alt="Twitter"> </a>
+            <a href="https://x.com/Fill_perovo"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge" alt="Twitter"> </a> <br> <br>
     </section>
             <fotter>
                      <b>My lovely cat:</b>
@@ -29,4 +29,7 @@
                             <img src="https://github.com/Fillperovo/fotki/blob/main/IMG_20261011_100803.jpg" alt="kotik" style="height: 200px">
                             <img src="https://github.com/Fillperovo/fotki/blob/main/IMG_20260803_203001.jpg" alt="kotik" style="height: 200px">
                     </div>
-            </fotter>
+            </fotter>    
+            <section>
+                    Yeah, it’s a bit small right now, but in the future I plan to expand my portfolio.
+            </section>
