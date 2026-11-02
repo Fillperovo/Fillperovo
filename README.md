@@ -4,6 +4,7 @@
     <section>
         <img src="http://c.tenor.com/cRTQk6N_FxMAAAAd/tenor.gif" alt="it's SWAGcat">
     </section>
+    <br>
     <section>
       My skills now: <br>
         <img src="https://img.shields.io/badge/HTML-E34C26?style=for-the-badge" alt="HTML">
@@ -12,10 +13,12 @@
         <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge" alt="Python">
         <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge" alt="VS Code"><br>
     </section>
+    <br>
     <section>
-            I Russian novice developer. I want to learn and develop.  
+            Hmm... where to start..? I'm 16 years old, I want to learn and develop, now, I’m studying at a Moscow college, majoring in software development. I’m curious about exactly how the computer thinks when I perform a particular action. <b>I LOVE CATS <333</b> and I have one:
     </section>
+    <br>
     <section>
             My twitter: <br>
-            <a href="https://x.com/Fill_perovo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge" alt="Twitter"> </a>
+            <a href="https://x.com/Fill_perovo"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge" alt="Twitter"> </a>
     </section>
