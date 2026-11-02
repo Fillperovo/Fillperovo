@@ -23,10 +23,10 @@
             <a href="https://x.com/Fill_perovo"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge" alt="Twitter"> </a>
     </section>
             <fotter>
-                    My <b>favourite</b> cat:
+                     <b>My lovely cat:</b>
                     <div style="display: flex; justify-content: space-around; align-items: center;">
-                            <img src="https://github.com/Fillperovo/fotki/blob/main/IMG_20261030_135807.jpg" alt="kotik" style="height: 300px">
-                            <img src="https://github.com/Fillperovo/fotki/blob/main/IMG_20261011_100803.jpg" alt="kotik" style="height: 300px">
-                            <img src="https://github.com/Fillperovo/fotki/blob/main/IMG_20260803_203001.jpg" alt="kotik" style="height: 300px">
+                            <img src="https://github.com/Fillperovo/fotki/blob/main/IMG_20261030_135807.jpg" alt="kotik" style="height: 200px">
+                            <img src="https://github.com/Fillperovo/fotki/blob/main/IMG_20261011_100803.jpg" alt="kotik" style="height: 200px">
+                            <img src="https://github.com/Fillperovo/fotki/blob/main/IMG_20260803_203001.jpg" alt="kotik" style="height: 200px">
                     </div>
             </fotter>
