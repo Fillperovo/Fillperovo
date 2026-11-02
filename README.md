@@ -15,7 +15,7 @@
     </section>
     <br>
     <section>
-            Hmm... where to start..? I'm 16 years old, I want to learn and develop, now, I’m studying at a Moscow college, majoring in software development. I’m curious about exactly how the computer thinks when I perform a particular action. <b>I LOVE CATS <333</b>
+            Hmm... where to start..? I'm 16 years old, I want to learn and develop, now, I’m studying at a Moscow college, majoring in software development. I’m curious about exactly how the computer thinks when I perform a particular action. <b>I love cats <333</b>
             </section>
     <br>
     <section>
@@ -30,6 +30,7 @@
                             <img src="https://github.com/Fillperovo/fotki/blob/main/IMG_20260803_203001.jpg" alt="kotik" style="height: 200px">
                     </div>
             </fotter>    
+                    <br>
             <section>
                     Yeah, it’s a bit small right now, but in the future I plan to expand my portfolio.
             </section>
