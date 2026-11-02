@@ -5,12 +5,12 @@
         <img src="http://c.tenor.com/cRTQk6N_FxMAAAAd/tenor.gif" alt="it's SWAGcat">
     </section>
     <section>
-      My skills now:
-      <img src="https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5" alt="HTML">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3" alt="CSS">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript" alt="JavaScript">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black" alt="Python">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code" alt="VS Code">
+      My skills now: <br>
+      ![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+![Python](https://shields.io)
 
-
+### Инструменты
+![Visual Studio Code](https://shields.io)
     </section>
