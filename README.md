@@ -6,11 +6,11 @@
     </section>
     <section>
       My skills now: <br>
-      ![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![Python](https://shields.io)
+      <img src="https://shields.io" alt="HTML5" />
+<img src="https://shields.io" alt="CSS3" />
+<img src="https://shields.io" alt="JavaScript" />
+<img src="https://shields.io" alt="Python" />
 
 ### Инструменты
-![Visual Studio Code](https://shields.io)
+<img src="https://shields.io" alt="Visual Studio Code" />
     </section>
