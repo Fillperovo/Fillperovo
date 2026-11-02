@@ -6,18 +6,16 @@
     </section>
     <section>
       My skills now: <br>
-      ## 🛠️ Навыки / Skills
-
-## 🛠️ Навыки / Skills
-
-### My skills now:
-<svg height="28" viewBox="0 0 90 28" xmlns="http://w3.org"><rect rx="3" width="90" height="28" fill="#E34F26"/><text x="45" y="18" fill="#fff" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="middle">HTML5</text></svg>
-<svg height="28" viewBox="0 0 80 28" xmlns="http://w3.org"><rect rx="3" width="80" height="28" fill="#1572B6"/><text x="40" y="18" fill="#fff" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="middle">CSS3</text></svg>
-<svg height="28" viewBox="0 0 110 28" xmlns="http://w3.org"><rect rx="3" width="110" height="28" fill="#F7DF1E"/><text x="55" y="18" fill="#000" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="middle">JavaScript</text></svg>
-<svg height="28" viewBox="0 0 90 28" xmlns="http://w3.org"><rect rx="3" width="90" height="28" fill="#3776AB"/><text x="45" y="18" fill="#fff" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Python</text></svg>
-
-### Инструменты
-<svg height="28" viewBox="0 0 160 28" xmlns="http://w3.org"><rect rx="3" width="160" height="28" fill="#007ACC"/><text x="80" y="18" fill="#fff" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Visual Studio Code</text></svg>
-
-
+        <img src="https://img.shields.io/badge/HTML-E34C26?style=for-the-badge" alt="HTML">
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge" alt="CSS">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge" alt="JavaScript">
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge" alt="Python">
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge" alt="VS Code"><br>
+    </section>
+    <section>
+            I Russian novice developer. I want to learn and develop.  
+    </section>
+    <section>
+            My twitter: <br>
+            <a href="https://x.com/Fill_perovo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge" alt="Twitter"> </a>
     </section>
