@@ -6,11 +6,18 @@
     </section>
     <section>
       My skills now: <br>
-      <img src="https://shields.io" alt="HTML5" />
-<img src="https://shields.io" alt="CSS3" />
-<img src="https://shields.io" alt="JavaScript" />
-<img src="https://shields.io" alt="Python" />
+      ## 🛠️ Навыки / Skills
+
+## 🛠️ Навыки / Skills
+
+### My skills now:
+<svg height="28" viewBox="0 0 90 28" xmlns="http://w3.org"><rect rx="3" width="90" height="28" fill="#E34F26"/><text x="45" y="18" fill="#fff" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="middle">HTML5</text></svg>
+<svg height="28" viewBox="0 0 80 28" xmlns="http://w3.org"><rect rx="3" width="80" height="28" fill="#1572B6"/><text x="40" y="18" fill="#fff" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="middle">CSS3</text></svg>
+<svg height="28" viewBox="0 0 110 28" xmlns="http://w3.org"><rect rx="3" width="110" height="28" fill="#F7DF1E"/><text x="55" y="18" fill="#000" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="middle">JavaScript</text></svg>
+<svg height="28" viewBox="0 0 90 28" xmlns="http://w3.org"><rect rx="3" width="90" height="28" fill="#3776AB"/><text x="45" y="18" fill="#fff" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Python</text></svg>
 
 ### Инструменты
-<img src="https://shields.io" alt="Visual Studio Code" />
+<svg height="28" viewBox="0 0 160 28" xmlns="http://w3.org"><rect rx="3" width="160" height="28" fill="#007ACC"/><text x="80" y="18" fill="#fff" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="middle">Visual Studio Code</text></svg>
+
+
     </section>
