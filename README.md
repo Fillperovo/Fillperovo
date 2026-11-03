@@ -31,7 +31,7 @@
                     </div>
             </fotter>    
                     <br>
-                    <section> <a href="hh.ru/resume/6baebd42ff1150b9f90039ed1f75387a435364">My portfolio on headhunter.ru: <br>
+                    <section> <a href="https://hh.ru/resume/6baebd42ff1150b9f90039ed1f75387a435364">My portfolio on headhunter.ru: <br>
                             <img src="https://github.com/Fillperovo/fotki/blob/main/my_portfolio_on_hh" alt="portfolio" style="height:500px"></a>
                     </section>
                     <section>
