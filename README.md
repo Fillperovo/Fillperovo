@@ -31,8 +31,8 @@
                     </div>
             </fotter>    
                     <br>
-                    <section> <a href="hh.ru/resume/6baebd42ff1150b9f90039ed1f75387a435364>My portfolio on headhunter.ru: <br>
-                            <img src="https://github.com/Fillperovo/fotki/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%9D%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%20%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%20%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB%20%D0%A1%D1%83%D1%80%D0%B8%D0%BD%20%D0%BE%D1%82%2003-11-2026%2011-13_page-0001.jpg" alt="portfolio" style="height:500px"></a>
+                    <section> <a href="hh.ru/resume/6baebd42ff1150b9f90039ed1f75387a435364">My portfolio on headhunter.ru: <br>
+                            <img src="https//github.com/Fillperovo/fotki/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%9D%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%20%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%20%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB%20%D0%A1%D1%83%D1%80%D0%B8%D0%BD%20%D0%BE%D1%82%2003-11-2026%2011-13_page-0001.jpg" alt="portfolio" style="height:500px"></a>
                     </section>
                     <section>
                     Yeah, it’s a bit small right now, but in the future I plan to expand my portfolio.
